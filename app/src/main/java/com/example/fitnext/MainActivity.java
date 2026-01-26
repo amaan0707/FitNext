@@ -19,7 +19,7 @@ import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.auth.FirebaseUser;
 
 public class MainActivity extends AppCompatActivity {
-
+//understood
     private static final int PERMISSION_REQUEST_CODE = 100;
     private Button loginBtnMain, registerBtnMain;
     private FirebaseAuth auth;
